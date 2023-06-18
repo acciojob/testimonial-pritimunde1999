@@ -10,15 +10,8 @@ section{
 	border: grey solid 1px;
 	margin-bottom: 10px;
 }
-.div2{
-	background-color:white;
-	padding:10px;
-	border: grey solid 1px;
-}
-#p1{
-	padding-left:420px;
-}
 
-#p2{
-	padding-left:410px;
+.p1{
+	text-align: right;
+	padding-right:10px;
 }
